@@ -1,8 +1,5 @@
-## Magisk (6c8fe465) (20420)
-- Support NAND based Android installation on Nintendo Switch
-- Support Android 11 AVD (`emulator.sh`, development only)
-- Keep module disabled when a module is upgraded
-- Inherit app namespace before isolating namespace (if supported)
+## Magisk (f32a2991) (20421)
+- Properly detect 2SI init, should fix Android 11 support on many devices
 
 ## Magisk Manager (fbaf2bde) (297)
 - Fix several bugs in manager upgrade logic.
