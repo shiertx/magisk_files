@@ -1,5 +1,5 @@
-## Magisk (f32a2991) (20421)
-- Properly detect 2SI init, should fix Android 11 support on many devices
+## Magisk (61599059) (20422)
+- Fix bootloops on 2SI legacy SAR devices
 
 ## Magisk Manager (fbaf2bde) (297)
 - Fix several bugs in manager upgrade logic.
