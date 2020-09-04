@@ -1,5 +1,7 @@
-## Magisk (61599059) (20422)
-- Fix bootloops on 2SI legacy SAR devices
+## Magisk (fd5ad91d) (20423)
+- Fix bootloop on legacy rootfs based devices
+- Fix incorrect 2SI detection that always report incorrect results (that will also fix tons of bootloops)
+- Update SELinux rules, fixing several issues
 
 ## Magisk Manager (fbaf2bde) (297)
 - Fix several bugs in manager upgrade logic.
