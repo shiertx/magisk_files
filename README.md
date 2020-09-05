@@ -1,2 +1,3 @@
-# Magisk File Host
-This repo hosts Magisk files: it is like a file server for Magisk Manager.
+# 自定义更新 - 国内源
+
+解决Magiak使用GitHub Raw更新导致的一直检查
